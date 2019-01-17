@@ -25,4 +25,3 @@ export class ModelAdminComponent {
   poster = 'assets/NASA.jpg';
 
 }
-
